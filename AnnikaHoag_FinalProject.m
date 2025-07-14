@@ -1,12 +1,12 @@
 % Annika Hoag
-% COM 322 - Final Project
+% COM 322 Computer Version - Final Project
 % Program that runs OpenPose on images of ballet poses done by 3 dancers,
 % reads in joint positions from OpenPose and sets up a matrix with the
 % relevant data to be used in training via MatLab's Classification Learner
 % App (specifically with Quadratic SVM)
 
 
-
+% Install OpenPose https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/md_doc_installation_0_index.html 
 % Run OpenPose as a terminal command
 % Notes: 
 %   1) this file must be in the openpose directory for this commmand to
