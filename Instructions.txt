@@ -15,3 +15,5 @@ cd {OpenPose_root_path}
 cd python/
 python openpose_python.py
 ```
+
+If the code doesn't run with your openpose installation please email ahoag@conncoll.edu and I will send you my installation to make sure the versions are the same.
